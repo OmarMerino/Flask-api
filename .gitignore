@@ -1,0 +1,6 @@
+env/
+.env
+_pycache_/
+*.py[cod]
+
+.ytest_cache/
